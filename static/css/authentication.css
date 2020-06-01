@@ -1,0 +1,18 @@
+body {
+    background: #212529;
+}
+
+.social-img {
+    margin-bottom:3px;
+    margin-right:5px;
+}
+
+.social-btn {
+    background-color: #8064A2 !important;
+}
+
+.welcome-message {
+    color: cornsilk;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
