@@ -140,5 +140,6 @@ function getCookie(name) {
 function showDialog(text, text_class) {
 	$('#notepad-dialog').modal('show');
 	$('#notepad-dialog-text').text(text);
+	$('#notepad-dialog-text').removeClass();
 	$('#notepad-dialog-text').addClass(text_class);
 }
